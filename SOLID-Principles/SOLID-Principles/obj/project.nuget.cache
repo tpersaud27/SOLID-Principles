@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iY7FWLX6IzUUgDW3kONGO75zYX+oK0FeAtO5daWmEY5BjLvdONbkOihfPQdzr7B6aTZtlH3vJ8M2AlSKx0tm4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\i32338\\OneDrive - Verisk Analytics\\Desktop\\SOLID-Principles\\SOLID-Principles\\SOLID-Principles\\SOLID-Principles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\i32338\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\i32338\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\i32338\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\i32338\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\i32338\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\i32338\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
